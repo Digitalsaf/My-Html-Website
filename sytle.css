@@ -1,0 +1,17 @@
+* {
+    color: blue;
+    font-family: Open sans-serif;
+    text-align: center;
+}
+
+button {
+    background-color: Yellow;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 160px;
+
+}
